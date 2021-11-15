@@ -5,4 +5,4 @@ It takes the black-box-ness of the College Board version, by using an ArrayList 
 This is starter code that students will complete. \
 My list of activities is <a href="https://docs.google.com/document/d/16WpkOqSf3-6WR9vLl8oqlHNyLfSD2UaoFm2Jr_bm4BI/edit?usp=sharing" target="_blank">here</a>\
 \
-Updated by Michael Buescher, mbuescher@hb.edu\
+Updated by Michael Buescher, mbuescher@hb.edu
