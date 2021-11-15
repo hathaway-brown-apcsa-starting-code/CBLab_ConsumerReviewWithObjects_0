@@ -15,7 +15,7 @@ public class StringTools
     
         // You write this! You might want to use the built in methods 
         //   char String.charAt(int n)                 and
-        //   boolean Character.isAlphabetic(char ch)
+        //   boolean Character.isLetterOrDigit(char ch)
         
 
     
